@@ -1,2 +1,2 @@
 #!/bin/bash
-la -la /0x00-shell_basics .. /boot
+la -la . .. /boot
